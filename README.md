@@ -7,3 +7,5 @@ but with every new project I have to create folders,models and repositoies so I'
 I'am working on adding comments to the code(in my free times) so you canunderstand every line of code
 
 I will add desktop app whenever microsoft release desktop apllication in .net core i did not include it now cuse its in preview
+
+* this will not add nuget packeges to your project so you have to add them manually 
