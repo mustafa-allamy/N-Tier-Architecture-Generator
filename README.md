@@ -5,3 +5,5 @@ I created this because i work in a company with lot of medium projects and i lik
 but with every new project I have to create folders,models and repositoies so I've decided that I will make simple project to create all this to me
 # Note* you will need to create asp core webApi project first and you have to think of models names 
 I'am working on adding comments to the code(in my free times) so you canunderstand every line of code
+
+I will add desktop app whenever microsoft release desktop apllication in .net core i did not include it now cuse its in preview
