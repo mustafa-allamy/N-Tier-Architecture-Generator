@@ -1,0 +1,13 @@
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.exe
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.deps.json
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.runtimeconfig.json
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.runtimeconfig.dev.json
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.dll
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\bin\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.pdb
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.AssemblyInfo.cs
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.dll
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.pdb
+C:\Users\Mustafa\source\repos\AutoStructureGenerator\AutoStructureGeneratorConsoleApp\obj\Debug\netcoreapp3.1\AutoStructureGeneratorConsoleApp.genruntimeconfig.cache

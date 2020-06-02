@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoStructureGenerator", "AutoStructureGenerator\AutoStructureGenerator.csproj", "{302D69A4-3EB9-47CD-8BEC-3CF55E3A0267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoStructureGeneratorConsoleApp", "AutoStructureGeneratorConsoleApp\AutoStructureGeneratorConsoleApp.csproj", "{5DAE37DE-F9EA-4BA6-BA73-524A31F472D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302D69A4-3EB9-47CD-8BEC-3CF55E3A0267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302D69A4-3EB9-47CD-8BEC-3CF55E3A0267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302D69A4-3EB9-47CD-8BEC-3CF55E3A0267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302D69A4-3EB9-47CD-8BEC-3CF55E3A0267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAE37DE-F9EA-4BA6-BA73-524A31F472D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAE37DE-F9EA-4BA6-BA73-524A31F472D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAE37DE-F9EA-4BA6-BA73-524A31F472D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAE37DE-F9EA-4BA6-BA73-524A31F472D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95B240E3-6BFE-4EC1-9331-39ABD67FF147}
+	EndGlobalSection
+EndGlobal
