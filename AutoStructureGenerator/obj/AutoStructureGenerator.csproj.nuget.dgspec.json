@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mustafa\\source\\repos\\AutoStructureGenerator\\AutoStructureGenerator\\AutoStructureGenerator.csproj": {}
+    "C:\\Users\\Mustafa\\Documents\\GitHub\\N-Tier-Architecture-Generator\\AutoStructureGenerator\\AutoStructureGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mustafa\\source\\repos\\AutoStructureGenerator\\AutoStructureGenerator\\AutoStructureGenerator.csproj": {
+    "C:\\Users\\Mustafa\\Documents\\GitHub\\N-Tier-Architecture-Generator\\AutoStructureGenerator\\AutoStructureGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\AutoStructureGenerator\\AutoStructureGenerator\\AutoStructureGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Mustafa\\Documents\\GitHub\\N-Tier-Architecture-Generator\\AutoStructureGenerator\\AutoStructureGenerator.csproj",
         "projectName": "AutoStructureGenerator",
-        "projectPath": "C:\\Users\\Mustafa\\source\\repos\\AutoStructureGenerator\\AutoStructureGenerator\\AutoStructureGenerator.csproj",
+        "projectPath": "C:\\Users\\Mustafa\\Documents\\GitHub\\N-Tier-Architecture-Generator\\AutoStructureGenerator\\AutoStructureGenerator.csproj",
         "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mustafa\\source\\repos\\AutoStructureGenerator\\AutoStructureGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Mustafa\\Documents\\GitHub\\N-Tier-Architecture-Generator\\AutoStructureGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
